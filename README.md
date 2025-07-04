@@ -31,7 +31,7 @@ This is my first full HTML and CSS project. It’s a simple tribute page built a
 
 ## 🔗 Live Demo
 
-Coming soon — GitHub Pages will be enabled.
+[View the live site here](https://ahmedtamerali.github.io/Nikola-Tesla-Tribute-Page/)
 
 ## 🧠 What I Learned
 
