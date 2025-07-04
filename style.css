@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    background-color: white;
+}
+body {
+    border-radius: 10px;
+    box-shadow: 0 0 1px rgba(212, 163, 115, 0.2); /* Add this line */
+    margin: 10px 5px;
+    background-color: #FEFAE0;
+    color: #2E2E2E;
+    font-family: 'Open Sans', sans-serif;
+    padding: 10px;
+}
+
+.header{
+    text-align: center;
+    padding: 20px;
+}
+
+h1, h2, h3 {
+  color: #D4A373;
+  font-family: 'Montserrat', sans-serif;
+}
+#paragraph1 {
+  font-size: 1.2em;
+  color: #2E2E2E;
+  margin-top: 10px;
+}
+a {
+  color: #D4A373;
+}
+
+figure {
+    text-align: center;
+    padding: 10px;
+    width: auto;   
+}
+figcaption {
+    font-size: 1.2em;
+    color: #2E2E2E;
+    margin-top: 10px;
+}
+#img-section {
+    width: auto;
+    height: auto;
+    background-color: #E9EDC9;
+}
+#image{
+    margin: 10px auto 0 auto;
+    height: auto;
+    max-width: 100%;
+    display: block;
+}
+#tribute {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#tribute h2 {
+    color: #D4A373;
+    font-family: 'Montserrat', sans-serif;
+    margin: 30px auto;
+}
+#tribute-info {
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+    margin: 10px 0;
+    font-size: 1.2em;
+    color: #2E2E2E;
+    gap:20px;
+}
+#quote {
+    font-style: italic;
+    color: #2E2E2E;
+    margin: 20px 0;
+    padding: 10px;
+    border-left: 4px solid #D4A373;
+    background-color: #F5F5DC;
+}
+#footer-p1{
+    font-style: bold;
+    color: #2E2E2E;
+    margin-bottom: 10px;
+    text-align: center;
+}
+main p{
+    text-align: center;
+    margin-bottom: 20px;
+}
+footer p{
+    font-style: bold;
+    color: #2E2E2E;
+    text-align: center;
+}
+#tribute-link {
+    color: #D4A373;
+    text-decoration: none;
+}
+#tribute-link:hover {
+    text-decoration: underline;
+    color: #CCD5AE;
+}
